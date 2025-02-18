@@ -10,10 +10,10 @@ export default function About() {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-4xl font-bold tracking-tight text-gradient sm:text-5xl">Our Mission & Vision</h2>
             <p className="mt-8 text-lg leading-8 text-gray-300">
-              At Civaro AI, our mission is to revolutionize everyday business interactions by delivering intelligent, reliable, and efficient AI agents. We believe that by automating routine tasks, businesses can unlock greater creativity and focus on building meaningful relationships.
+              At Civaro, our mission is to simplify medical operations by automating routine tasks, allowing healthcare professionals to focus on patient care. We strive to enhance efficiency, reduce administrative burdens, and improve the overall patient experience.
             </p>
             <p className="mt-6 text-lg leading-8 text-gray-300">
-              We envision a future where every business, regardless of size, leverages AI to enhance productivity and customer satisfaction—making complex operations seamless and intuitive.
+              We envision a future where every clinic, regardless of size, operates seamlessly—minimizing wait times, eliminating errors, and providing effortless patient interactions through smart automation.
             </p>
           </div>
         </AnimatedSection>
@@ -23,10 +23,13 @@ export default function About() {
             <div className="px-6 py-12 sm:px-12">
               <h3 className="text-2xl subheading-gradient mb-6">Our Story</h3>
               <p className="text-gray-300 leading-relaxed">
-                Founded by AI enthusiasts with decades of experience in business process optimization, Civaro AI emerged from a simple observation: businesses spend countless hours on routine communication tasks that could be automated intelligently. Our founder's passion for AI and commitment to simplifying business processes led to the development of our cutting-edge voice AI technology.
+                Civaro was born from a passion for solving real-world challenges in communication and operations. Our founders, with years of experience in automation and business process optimization, saw how industries struggled with inefficiencies—especially in high-demand environments like healthcare.
               </p>
               <p className="mt-4 text-gray-300 leading-relaxed">
-                Today, we're proud to be at the forefront of the AI revolution, helping businesses across industries transform their operations and deliver exceptional customer experiences.
+                What started as a broad mission to enhance business operations soon evolved into a specialized focus on medical clinics, where reducing administrative burdens directly improves patient care. Through extensive research and collaboration with industry experts, we developed solutions tailored to the unique needs of healthcare providers.
+              </p>
+              <p className="mt-4 text-gray-300 leading-relaxed">
+                Today, Civaro is dedicated to transforming medical workflows, ensuring that every interaction—whether scheduling an appointment or handling inquiries—is smooth, efficient, and stress-free.
               </p>
             </div>
           </div>

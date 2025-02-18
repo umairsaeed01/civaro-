@@ -83,8 +83,8 @@ export default function Hero() {
               transition={{ duration: 0.8, delay: 0.2 }}
               className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-white"
             >
-              <span className="block mb-2 sm:mb-3">Empower Your Business</span>
-              <span className="block text-gradient">with AI Automation</span>
+              <span className="block mb-2 sm:mb-3">Faster Smarter</span>
+              <span className="block text-gradient">Stress-Free Clinics</span>
             </motion.h1>
 
             <motion.p
@@ -93,7 +93,7 @@ export default function Hero() {
               transition={{ duration: 0.8, delay: 0.4 }}
               className="mx-auto mt-4 sm:mt-6 max-w-2xl text-base sm:text-lg md:text-xl leading-relaxed text-gray-300"
             >
-              AI automation that accelerates growth and multiplies sales
+              Automation that works behind the scenes, so you focus on patients
             </motion.p>
 
             <motion.div
